@@ -9,3 +9,5 @@ Referências:
 
 
 3- https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library (biblioteca LCD )
+
+4- http://autocorerobotica.blog.br/crie-um-jogo-de-multiplicacao-com-arduino-teclado-matricial-4x3-e-display-16x2-2/ (pinagem das telas)
