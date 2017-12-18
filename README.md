@@ -1,6 +1,8 @@
 # Projeto_Microprocessados
 Repositório para controle de versao do projeto bem como acompanhamento!
 
+Vídeo explicativo do projeto: https://www.youtube.com/watch?v=2TIvxtRZzt0&feature=youtu.be
+
 Referências:
 
 1-http://www.kjit.bme.hu/images/stories/targyak/jelfeldolgozas_a_kozlekedesben/keypad_manual_v100.pdf (usar como modelo pro esquemático)
